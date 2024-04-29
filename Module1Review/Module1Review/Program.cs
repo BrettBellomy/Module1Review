@@ -10,6 +10,10 @@
         {
             return .5 * baseLength * height;
         }
+        static double RectangleArea(double length, double width)
+        {
+            return length * width;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter the radius of the circle");
@@ -25,6 +29,13 @@
 
             Console.WriteLine("The area of the triangle is:");
             TriangleArea(baseLength, height);
+
+            Console.WriteLine("Please enter the length of the rectangle");
+            double length = (Convert.ToDouble(Console.ReadLine()));
+            Console.WriteLine("Please enter the width of the rectangle");
+            double width = (Convert.ToDouble(Console.ReadLine()));
+
+
         }
     }
 }
