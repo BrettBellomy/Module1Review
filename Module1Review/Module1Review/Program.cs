@@ -1,4 +1,6 @@
-﻿namespace Module1Review
+﻿using System.Transactions;
+
+namespace Module1Review
 {
     internal class Program
     {
@@ -13,6 +15,10 @@
         static double RectangleArea(double length, double width)
         {
             return length * width;
+        }
+        static double SquareAre(double side)
+        {
+            return side * side;
         }
         static void Main(string[] args)
         {
@@ -35,6 +41,14 @@
             Console.WriteLine("Please enter the width of the rectangle");
             double width = (Convert.ToDouble(Console.ReadLine()));
 
+            Console.WriteLine("The are of the rectangle is:");
+            RectangleArea(length, width);
+
+            Console.WriteLine("Please enter the side length of  the square");
+            double side = (Convert.ToDouble(Console.ReadLine()));
+
+            Console.WriteLine("The are of the square is:");
+            SquareAre(side);
 
         }
     }
