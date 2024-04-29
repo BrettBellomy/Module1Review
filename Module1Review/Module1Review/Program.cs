@@ -26,7 +26,8 @@ namespace Module1Review
             double radius = (Convert.ToDouble(Console.ReadLine()));
 
             Console.WriteLine("The area of the circle is:");
-            Console.WriteLine(Convert.ToString(CircleArea(radius)));
+            double areaOfCircle = CircleArea(radius);
+            Console.WriteLine(areaOfCircle);
 
             Console.WriteLine("Please enter the length of the triangle");
             double baseLength = (Convert.ToDouble(Console.ReadLine()));
@@ -34,7 +35,8 @@ namespace Module1Review
             double height = (Convert.ToDouble(Console.ReadLine()));
 
             Console.WriteLine("The area of the triangle is:");
-            Console.WriteLine(Convert.ToString(TriangleArea(baseLength, height)));
+            double areaOfTriangle = TriangleArea(radius, height);
+            Console.WriteLine(areaOfTriangle);
 
             Console.WriteLine("Please enter the length of the rectangle");
             double length = (Convert.ToDouble(Console.ReadLine()));
@@ -42,13 +44,15 @@ namespace Module1Review
             double width = (Convert.ToDouble(Console.ReadLine()));
 
             Console.WriteLine("The are of the rectangle is:");
-            Console.WriteLine(Convert.ToString(RectangleArea(length, width)));
+            double areaOfRectangle = RectangleArea(length, width);
+            Console.WriteLine(areaOfRectangle);
 
             Console.WriteLine("Please enter the side length of  the square");
             double side = (Convert.ToDouble(Console.ReadLine()));
 
             Console.WriteLine("The are of the square is:");
-            Console.WriteLine(Convert.ToString(SquareAre(side)));
+            double areaOfSquare = SquareAre(side);
+            Console.WriteLine(areaOfSquare);
 
         }
     }
