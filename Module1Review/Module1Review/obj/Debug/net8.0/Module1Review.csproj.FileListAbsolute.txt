@@ -1,0 +1,15 @@
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\bin\Debug\net8.0\Module1Review.exe
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\bin\Debug\net8.0\Module1Review.deps.json
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\bin\Debug\net8.0\Module1Review.runtimeconfig.json
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\bin\Debug\net8.0\Module1Review.dll
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\bin\Debug\net8.0\Module1Review.pdb
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.AssemblyInfoInputs.cache
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.AssemblyInfo.cs
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.csproj.CoreCompileInputs.cache
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.sourcelink.json
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.dll
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\refint\Module1Review.dll
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.pdb
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.genruntimeconfig.cache
+C:\Users\Holli\OneDrive\Desktop\repos\Module1Review\Module1Review\Module1Review\obj\Debug\net8.0\ref\Module1Review.dll
