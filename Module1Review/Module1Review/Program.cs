@@ -64,6 +64,11 @@ namespace Module1Review
                 double areaOfSquare = SquareAre(side);
                 Console.WriteLine(areaOfSquare);
             }
+            else
+            {
+                Console.WriteLine($"I'm sorry, but '{shape}' was not a valid response. Please restart the program and try again");
+            }
+            
         }
     }
 }
