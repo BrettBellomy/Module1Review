@@ -33,7 +33,7 @@ namespace Module1Review
                 double areaOfCircle = CircleArea(radius);
                 Console.WriteLine(areaOfCircle);
             }
-            if (shape == "Triangle")
+            else if (shape == "Triangle")
             {
                 Console.WriteLine("Please enter the length of the triangle");
                 double baseLength = (Convert.ToDouble(Console.ReadLine()));
@@ -44,7 +44,7 @@ namespace Module1Review
                 double areaOfTriangle = TriangleArea(baseLength, height);
                 Console.WriteLine(areaOfTriangle);
             }
-            if (shape == "Rectangle")
+            else if (shape == "Rectangle")
             {
                 Console.WriteLine("Please enter the length of the rectangle");
                 double length = (Convert.ToDouble(Console.ReadLine()));
@@ -55,7 +55,7 @@ namespace Module1Review
                 double areaOfRectangle = RectangleArea(length, width);
                 Console.WriteLine(areaOfRectangle);
             }
-            if (shape == "Square")
+            else if (shape == "Square")
             {
                 Console.WriteLine("Please enter the side length of  the square");
                 double side = (Convert.ToDouble(Console.ReadLine()));
